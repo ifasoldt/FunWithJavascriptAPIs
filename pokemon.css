@@ -1,0 +1,20 @@
+body {
+  background-image: url("http://ovicio.com.br/wp-content/uploads/umbreon.jpg");
+}
+
+span {
+  color:#36100B;
+}
+
+h2 {
+  color:white;
+  font-family: Helvetica;
+}
+
+td{
+  color:white;
+}
+
+th{
+ color:white;
+}
